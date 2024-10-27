@@ -50,3 +50,41 @@ Replace yourPassword with the password you created.
 Now you have access to Elasticsearch and can start working with it.
 
 
+  **NOW LET'S TEST OUR WEB CRUD APP USING INSOMNIA ELECTRON!**
+
+
+ **SAVE BOOK**
+ ![Screenshot (31)](https://github.com/user-attachments/assets/9ad44da6-1b48-4b91-b561-705e3d178e68)
+
+
+ **UPDATE BOOK BY ID**
+ ![Screenshot (29)](https://github.com/user-attachments/assets/5c8ae7bd-fa7a-41c7-98b4-542a3ebbc1b3)
+
+
+ **GET BOOK BY TITLE**
+ ![Screenshot (30)](https://github.com/user-attachments/assets/563b2f29-f3d9-4cc8-a038-33e6ba74e6aa)
+
+
+ **LIST ALL BOOKS**
+ ![Screenshot (26)](https://github.com/user-attachments/assets/474a8e45-6d64-4d52-95a6-07578c1ce340)
+
+
+ **DELETE BOOK**
+![Screenshot (28)](https://github.com/user-attachments/assets/99852b3a-9fe7-4036-9891-d405a6e2c4db)
+
+ 
+
+ 
+
+
+
+
+
+
+
+  
+
+
+  
+
+
